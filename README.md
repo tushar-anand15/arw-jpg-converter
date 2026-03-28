@@ -1,6 +1,6 @@
 # arw2jpg
 
-Convert Sony ARW raw files to high-quality JPEGs.
+Simple CLI tool to convert Sony ARW raw files to high-quality JPEGs.
 
 ## Installation
 
